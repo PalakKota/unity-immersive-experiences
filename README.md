@@ -10,7 +10,9 @@ A collection of immersive 3D environments and interactive applications built in 
 **Technologies:** Unity, C#.
 
 **Dance Floor**
+
 <img width="560" height="540" alt="image" src="1.JPG" />
 
 **Treasure Hunt**
+
 <img width="560" height="540" alt="image" src="2.JPG" />
